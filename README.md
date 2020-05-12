@@ -35,7 +35,7 @@ BlackFriday.csv       - This file contains 550,000 observations about the black 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@lin.jiadan.1029/data-exploration-on-black-friday-dataset-from-kaggle-ea3f4b7a6798).
+The main findings of the code can be found at the post available [here](https://medium.com/@anupkolte92/my-exploration-and-explanation-on-black-friday-dataset-283a0aca487c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
